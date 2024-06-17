@@ -11,7 +11,7 @@ body {
 .timer {
     width: 800px;
     height: 100px;
-    margin: 250px auto;
+    margin: 450px auto;
     display: flex;
     flex-direction: row;
     justify-content: center;
